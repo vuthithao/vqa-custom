@@ -1,0 +1,14 @@
+h5py
+Keras
+numpy
+pydot
+Pillow
+nltk
+tensorflow
+progressbar2
+pickle-mixin
+flask
+gevent
+gensim
+opencv-python
+opencv-contrib-python
